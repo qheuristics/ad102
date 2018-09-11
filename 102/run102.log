@@ -1,0 +1,561 @@
+2018-09-06 17:10:11 acud         INFO   Started loading case
+2018-09-06 17:10:11 acud         INFO   Completed loading case
+2018-09-06 17:10:11 acud         DEBUG  Started solve for step 1 of 10
+2018-09-06 17:10:11 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:11 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:11 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:11 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:11 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:11 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:12 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:12 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:12 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:12 acud         DEBUG  Completed solve for step 1 of 10 with status Optimal
+2018-09-06 17:10:12 acud         DEBUG  Started solve for step 2 of 10
+2018-09-06 17:10:12 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:12 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:12 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:12 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:12 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:12 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:12 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:12 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:12 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:12 acud         DEBUG  Completed solve for step 2 of 10 with status Optimal
+2018-09-06 17:10:12 acud         DEBUG  Started solve for step 3 of 10
+2018-09-06 17:10:12 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:12 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:12 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:12 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:12 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:12 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:13 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:13 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:13 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:13 acud         DEBUG  Completed solve for step 3 of 10 with status Optimal
+2018-09-06 17:10:13 acud         DEBUG  Started solve for step 4 of 10
+2018-09-06 17:10:13 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:13 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:13 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:13 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:13 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:13 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:13 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:13 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:13 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:13 acud         DEBUG  Completed solve for step 4 of 10 with status Optimal
+2018-09-06 17:10:13 acud         DEBUG  Started solve for step 5 of 10
+2018-09-06 17:10:13 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:13 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:13 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:13 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:13 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:13 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:13 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:13 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:13 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:13 acud         DEBUG  Completed solve for step 5 of 10 with status Optimal
+2018-09-06 17:10:13 acud         DEBUG  Started solve for step 6 of 10
+2018-09-06 17:10:13 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:13 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:14 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:14 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:14 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:14 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:14 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:14 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:14 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:14 acud         DEBUG  Completed solve for step 6 of 10 with status Optimal
+2018-09-06 17:10:14 acud         DEBUG  Started solve for step 7 of 10
+2018-09-06 17:10:14 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:14 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:14 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:14 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:14 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:14 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:14 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:14 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:14 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:14 acud         DEBUG  Completed solve for step 7 of 10 with status Optimal
+2018-09-06 17:10:14 acud         DEBUG  Started solve for step 8 of 10
+2018-09-06 17:10:14 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:15 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:15 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:15 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:15 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:15 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:15 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:15 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:15 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:15 acud         DEBUG  Completed solve for step 8 of 10 with status Optimal
+2018-09-06 17:10:15 acud         DEBUG  Started solve for step 9 of 10
+2018-09-06 17:10:15 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:15 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:15 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:15 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:15 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:15 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:15 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:15 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:15 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:15 acud         DEBUG  Completed solve for step 9 of 10 with status Optimal
+2018-09-06 17:10:15 acud         DEBUG  Started solve for step 10 of 10
+2018-09-06 17:10:15 acud.solve   INFO   Started preparing model instance
+2018-09-06 17:10:15 acud.solve   INFO   Completed preparing model instance
+2018-09-06 17:10:15 acud.solve   INFO   Started formulating model
+2018-09-06 17:10:16 acud.solve   INFO   Started writing model to LP file
+2018-09-06 17:10:16 acud.solve   INFO   Completed writing model to LP file
+2018-09-06 17:10:16 acud.solve   INFO   Started solving problem
+2018-09-06 17:10:16 acud.solve   INFO   Completed solving problem
+2018-09-06 17:10:16 acud.solve   INFO   Started retrieving solution
+2018-09-06 17:10:16 acud.solve   INFO   Completed retrieving solution
+2018-09-06 17:10:16 acud         DEBUG  Completed solve for step 10 of 10 with status Optimal
+2018-09-06 17:10:16 acud         INFO   log file at run102.log
+2018-09-06 17:10:48 acud.readsol INFO   Started reading solution
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading bidescs solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading bids solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading capacityindex solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading commitcapacity solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading demand solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading dispatch solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading dump solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading duration solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading flow solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading gencosts solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading generation solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading icapacity solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading load solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading loadesc solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading maxflowprices solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading maxflowslacks solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading minflowprices solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading minflowslacks solution file
+2018-09-06 17:10:48 acud.readsol DEBUG  Reading netrevenues solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading prices solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading revenues solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading start solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading startcosts solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading stop solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading units solution file
+2018-09-06 17:10:49 acud.readsol DEBUG  Reading use solution file
+2018-09-06 17:10:49 acud.readsol INFO   Completed reading solution
+2018-09-06 18:05:28 acud.readsol INFO   Started reading solution
+2018-09-06 18:05:28 acud.readsol DEBUG  Reading bidescs solution file
+2018-09-06 18:05:32 acud.readsol DEBUG  Reading bids solution file
+2018-09-06 18:05:36 acud.readsol DEBUG  Reading capacityindex solution file
+2018-09-06 18:05:36 acud.readsol DEBUG  Reading commitcapacity solution file
+2018-09-06 18:05:38 acud.readsol DEBUG  Reading companies solution file
+2018-09-06 18:05:38 acud.readsol DEBUG  Reading demand solution file
+2018-09-06 18:05:38 acud.readsol DEBUG  Reading dispatch solution file
+2018-09-06 18:05:42 acud.readsol DEBUG  Reading dump solution file
+2018-09-06 18:05:42 acud.readsol DEBUG  Reading duration solution file
+2018-09-06 18:05:42 acud.readsol DEBUG  Reading gencosts solution file
+2018-09-06 18:05:44 acud.readsol DEBUG  Reading generation solution file
+2018-09-06 18:05:46 acud.readsol DEBUG  Reading icapacity solution file
+2018-09-06 18:05:46 acud.readsol DEBUG  Reading load solution file
+2018-09-06 18:05:46 acud.readsol DEBUG  Reading loadesc solution file
+2018-09-06 18:05:46 acud.readsol DEBUG  Reading netrevenues solution file
+2018-09-06 18:05:48 acud.readsol DEBUG  Reading prices solution file
+2018-09-06 18:05:48 acud.readsol DEBUG  Reading revenues solution file
+2018-09-06 18:05:50 acud.readsol DEBUG  Reading start solution file
+2018-09-06 18:05:52 acud.readsol DEBUG  Reading startcosts solution file
+2018-09-06 18:06:01 acud.readsol DEBUG  Reading stop solution file
+2018-09-06 18:06:03 acud.readsol DEBUG  Reading units solution file
+2018-09-06 18:06:04 acud.readsol DEBUG  Reading use solution file
+2018-09-06 18:06:04 acud.readsol INFO   Completed reading solution
+2018-09-06 23:20:21 acud         INFO   Started loading case
+2018-09-06 23:21:20 acud         INFO   Started loading case
+2018-09-06 23:21:21 acud         INFO   Completed loading case
+2018-09-06 23:21:21 acud         DEBUG  Started solve for step 1 of 31
+2018-09-06 23:21:21 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:21 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:21 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:21 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:21 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:21 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:21 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:21 acud         DEBUG  Completed solve for step 1 of 31 with status Optimal
+2018-09-06 23:21:21 acud         DEBUG  Started solve for step 2 of 31
+2018-09-06 23:21:21 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:21 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:21 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:21 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:22 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:22 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:22 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:22 acud         DEBUG  Completed solve for step 2 of 31 with status Optimal
+2018-09-06 23:21:22 acud         DEBUG  Started solve for step 3 of 31
+2018-09-06 23:21:22 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:22 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:22 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:22 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:22 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:22 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:22 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:22 acud         DEBUG  Completed solve for step 3 of 31 with status Optimal
+2018-09-06 23:21:22 acud         DEBUG  Started solve for step 4 of 31
+2018-09-06 23:21:22 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:22 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:22 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:22 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:22 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:23 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:23 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:23 acud         DEBUG  Completed solve for step 4 of 31 with status Optimal
+2018-09-06 23:21:23 acud         DEBUG  Started solve for step 5 of 31
+2018-09-06 23:21:23 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:23 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:23 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:23 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:23 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:23 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:23 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:23 acud         DEBUG  Completed solve for step 5 of 31 with status Optimal
+2018-09-06 23:21:23 acud         DEBUG  Started solve for step 6 of 31
+2018-09-06 23:21:23 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:23 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:23 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:23 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:24 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:24 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:24 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:24 acud         DEBUG  Completed solve for step 6 of 31 with status Optimal
+2018-09-06 23:21:24 acud         DEBUG  Started solve for step 7 of 31
+2018-09-06 23:21:24 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:24 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:24 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:24 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:24 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:24 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:24 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:24 acud         DEBUG  Completed solve for step 7 of 31 with status Optimal
+2018-09-06 23:21:24 acud         DEBUG  Started solve for step 8 of 31
+2018-09-06 23:21:24 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:24 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:24 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:24 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:24 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:24 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:24 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:24 acud         DEBUG  Completed solve for step 8 of 31 with status Optimal
+2018-09-06 23:21:24 acud         DEBUG  Started solve for step 9 of 31
+2018-09-06 23:21:24 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:25 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:25 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:25 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:25 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:25 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:25 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:25 acud         DEBUG  Completed solve for step 9 of 31 with status Optimal
+2018-09-06 23:21:25 acud         DEBUG  Started solve for step 10 of 31
+2018-09-06 23:21:25 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:25 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:25 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:25 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:25 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:25 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:25 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:25 acud         DEBUG  Completed solve for step 10 of 31 with status Optimal
+2018-09-06 23:21:25 acud         DEBUG  Started solve for step 11 of 31
+2018-09-06 23:21:25 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:26 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:26 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:26 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:26 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:26 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:26 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:26 acud         DEBUG  Completed solve for step 11 of 31 with status Optimal
+2018-09-06 23:21:26 acud         DEBUG  Started solve for step 12 of 31
+2018-09-06 23:21:26 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:26 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:26 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:26 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:26 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:26 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:26 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:26 acud         DEBUG  Completed solve for step 12 of 31 with status Optimal
+2018-09-06 23:21:26 acud         DEBUG  Started solve for step 13 of 31
+2018-09-06 23:21:26 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:26 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:26 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:27 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:27 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:27 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:27 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:27 acud         DEBUG  Completed solve for step 13 of 31 with status Optimal
+2018-09-06 23:21:27 acud         DEBUG  Started solve for step 14 of 31
+2018-09-06 23:21:27 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:27 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:27 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:27 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:27 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:27 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:27 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:27 acud         DEBUG  Completed solve for step 14 of 31 with status Optimal
+2018-09-06 23:21:27 acud         DEBUG  Started solve for step 15 of 31
+2018-09-06 23:21:27 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:27 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:27 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:28 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:28 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:28 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:28 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:28 acud         DEBUG  Completed solve for step 15 of 31 with status Optimal
+2018-09-06 23:21:28 acud         DEBUG  Started solve for step 16 of 31
+2018-09-06 23:21:28 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:28 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:28 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:28 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:28 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:28 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:28 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:28 acud         DEBUG  Completed solve for step 16 of 31 with status Optimal
+2018-09-06 23:21:28 acud         DEBUG  Started solve for step 17 of 31
+2018-09-06 23:21:28 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:28 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:28 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:29 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:29 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:29 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:29 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:29 acud         DEBUG  Completed solve for step 17 of 31 with status Optimal
+2018-09-06 23:21:29 acud         DEBUG  Started solve for step 18 of 31
+2018-09-06 23:21:29 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:29 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:29 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:29 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:29 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:29 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:29 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:29 acud         DEBUG  Completed solve for step 18 of 31 with status Optimal
+2018-09-06 23:21:29 acud         DEBUG  Started solve for step 19 of 31
+2018-09-06 23:21:29 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:29 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:29 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:30 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:30 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:30 acud         DEBUG  Completed solve for step 19 of 31 with status Optimal
+2018-09-06 23:21:30 acud         DEBUG  Started solve for step 20 of 31
+2018-09-06 23:21:30 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:30 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:30 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:30 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:30 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:30 acud         DEBUG  Completed solve for step 20 of 31 with status Optimal
+2018-09-06 23:21:30 acud         DEBUG  Started solve for step 21 of 31
+2018-09-06 23:21:30 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:31 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:31 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:31 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:31 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:31 acud         DEBUG  Completed solve for step 21 of 31 with status Optimal
+2018-09-06 23:21:31 acud         DEBUG  Started solve for step 22 of 31
+2018-09-06 23:21:31 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:31 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:32 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:32 acud         DEBUG  Completed solve for step 22 of 31 with status Optimal
+2018-09-06 23:21:32 acud         DEBUG  Started solve for step 23 of 31
+2018-09-06 23:21:32 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:32 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:32 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:32 acud         DEBUG  Completed solve for step 23 of 31 with status Optimal
+2018-09-06 23:21:32 acud         DEBUG  Started solve for step 24 of 31
+2018-09-06 23:21:32 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:32 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:32 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:32 acud         DEBUG  Completed solve for step 24 of 31 with status Optimal
+2018-09-06 23:21:32 acud         DEBUG  Started solve for step 25 of 31
+2018-09-06 23:21:32 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:33 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:33 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:33 acud         DEBUG  Completed solve for step 25 of 31 with status Optimal
+2018-09-06 23:21:33 acud         DEBUG  Started solve for step 26 of 31
+2018-09-06 23:21:33 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:33 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:33 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:33 acud         DEBUG  Completed solve for step 26 of 31 with status Optimal
+2018-09-06 23:21:33 acud         DEBUG  Started solve for step 27 of 31
+2018-09-06 23:21:33 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:33 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:34 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:34 acud         DEBUG  Completed solve for step 27 of 31 with status Optimal
+2018-09-06 23:21:34 acud         DEBUG  Started solve for step 28 of 31
+2018-09-06 23:21:34 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:34 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:34 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:34 acud         DEBUG  Completed solve for step 28 of 31 with status Optimal
+2018-09-06 23:21:34 acud         DEBUG  Started solve for step 29 of 31
+2018-09-06 23:21:34 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:34 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:34 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:34 acud         DEBUG  Completed solve for step 29 of 31 with status Optimal
+2018-09-06 23:21:34 acud         DEBUG  Started solve for step 30 of 31
+2018-09-06 23:21:35 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:35 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:35 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:35 acud         DEBUG  Completed solve for step 30 of 31 with status Optimal
+2018-09-06 23:21:35 acud         DEBUG  Started solve for step 31 of 31
+2018-09-06 23:21:35 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:35 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:35 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:35 acud         DEBUG  Completed solve for step 31 of 31 with status Optimal
+2018-09-06 23:21:36 acud         INFO   log file at run101.log
+06 23:21:30 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:30 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:30 acud         DEBUG  Completed solve for step 19 of 31 with status Optimal
+2018-09-06 23:21:30 acud         DEBUG  Started solve for step 20 of 31
+2018-09-06 23:21:30 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:30 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:30 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:30 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:30 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:30 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:30 acud         DEBUG  Completed solve for step 20 of 31 with status Optimal
+2018-09-06 23:21:30 acud         DEBUG  Started solve for step 21 of 31
+2018-09-06 23:21:30 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:31 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:31 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:31 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:31 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:31 acud         DEBUG  Completed solve for step 21 of 31 with status Optimal
+2018-09-06 23:21:31 acud         DEBUG  Started solve for step 22 of 31
+2018-09-06 23:21:31 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:31 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:31 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:32 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:32 acud         DEBUG  Completed solve for step 22 of 31 with status Optimal
+2018-09-06 23:21:32 acud         DEBUG  Started solve for step 23 of 31
+2018-09-06 23:21:32 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:32 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:32 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:32 acud         DEBUG  Completed solve for step 23 of 31 with status Optimal
+2018-09-06 23:21:32 acud         DEBUG  Started solve for step 24 of 31
+2018-09-06 23:21:32 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:32 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:32 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:32 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:32 acud         DEBUG  Completed solve for step 24 of 31 with status Optimal
+2018-09-06 23:21:32 acud         DEBUG  Started solve for step 25 of 31
+2018-09-06 23:21:32 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:32 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:33 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:33 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:33 acud         DEBUG  Completed solve for step 25 of 31 with status Optimal
+2018-09-06 23:21:33 acud         DEBUG  Started solve for step 26 of 31
+2018-09-06 23:21:33 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:33 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:33 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:33 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:33 acud         DEBUG  Completed solve for step 26 of 31 with status Optimal
+2018-09-06 23:21:33 acud         DEBUG  Started solve for step 27 of 31
+2018-09-06 23:21:33 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:33 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:33 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:34 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:34 acud         DEBUG  Completed solve for step 27 of 31 with status Optimal
+2018-09-06 23:21:34 acud         DEBUG  Started solve for step 28 of 31
+2018-09-06 23:21:34 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:34 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:34 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:34 acud         DEBUG  Completed solve for step 28 of 31 with status Optimal
+2018-09-06 23:21:34 acud         DEBUG  Started solve for step 29 of 31
+2018-09-06 23:21:34 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:34 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:34 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:34 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:34 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:34 acud         DEBUG  Completed solve for step 29 of 31 with status Optimal
+2018-09-06 23:21:34 acud         DEBUG  Started solve for step 30 of 31
+2018-09-06 23:21:35 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:35 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:35 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:35 acud         DEBUG  Completed solve for step 30 of 31 with status Optimal
+2018-09-06 23:21:35 acud         DEBUG  Started solve for step 31 of 31
+2018-09-06 23:21:35 acud.solve   INFO   Started preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Completed preparing model instance
+2018-09-06 23:21:35 acud.solve   INFO   Started formulating model
+2018-09-06 23:21:35 acud.solve   INFO   Started solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Completed solving problem
+2018-09-06 23:21:35 acud.solve   INFO   Started retrieving solution
+2018-09-06 23:21:35 acud.solve   INFO   Completed retrieving solution
+2018-09-06 23:21:35 acud         DEBUG  Completed solve for step 31 of 31 with status Optimal
+2018-09-06 23:21:36 acud         INFO   log file at run101.log

@@ -1,0 +1,29 @@
+# RUN CONFIGURATION
+
+name: '102'
+model: model102.yml
+default: default.yml
+
+time:
+    startperiod: 2012-01-01 00:00
+    endperiod: 2012-01-10 23:00
+    stepsize: 24
+    blocks: 3
+    # snapshots:
+        # file: input/snapshots.csv
+        # datetimeformat: '%d/%m/%Y'
+
+output:
+    path: output
+    drypath: dry
+    xtrapath: xtra
+    out_lp: 1
+    
+solve:
+    mode: quantity
+    phase: MT
+    solver: coin
+    cat: Integer
+    include_ramps: 0
+    
+

@@ -1,0 +1,28 @@
+# MODEL CONFIGURATION
+
+name: '102'   # model name
+
+components:
+    bus:
+        file: input/buses.csv
+        referencenode: Bus1
+        
+    branch: 
+        file: input/branches.csv            
+
+    generator:
+        file: input/generators.csv
+                
+timeseries:
+    bus:
+        load:
+            format: ymdp
+            files:
+               Bus1: input/Bus1_load.csv
+             
+scalars:
+    discountrate: 0
+    voll: 100000
+    pricedumpenergy: 100000
+    loadescalator: 1
+

@@ -1,0 +1,4 @@
+name,from,to,max flow
+Bus1-Bus2,Bus1,Bus2,1000
+Bus1-Bus3,Bus1,Bus3,1000
+Bus2-Bus3,Bus2,Bus3,1000

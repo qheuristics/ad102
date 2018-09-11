@@ -1,0 +1,6 @@
+name,units,max build,max capacity,msl,forced outage rate,vom,heat rate,start up,annuity,ramp up,no load,derating,efficiency,bus,fuel,company,category
+Gen1,1,0,450,200,0,25,,0,,,,,,Bus1,,,
+Gen2,1,0,350,100,0,25,,0,,,,,,Bus1,,,
+Gen3,1,0,100,25,0,55,,0,,,,,,Bus2,,,
+Gen4,1,0,150,0,0,75,,0,,,,,,Bus2,,,
+Gen5,1,0,75,0,0,95,,0,,,,,,Bus3,,,
