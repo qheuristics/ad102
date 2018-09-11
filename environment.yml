@@ -9,7 +9,7 @@ dependencies:
   - xarray
   - ruamel.yaml
   - cerberus
-  - xlwings
+  # - xlwings
   - jupyter
   - pip:
     - http://www.algoserver.com/PuLP-1.5.4-py2-none-any.whl
