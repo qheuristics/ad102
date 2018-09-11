@@ -11,10 +11,11 @@ dependencies:
   # - cerberus
   # - xlwings
   - jupyter
+  - matplotlib=2.0.2
   - pip:
     - http://www.algoserver.com/PuLP-1.5.4-py2-none-any.whl
     # - http://www.algoserver.com/goodtables-2.0.2-py2.py3-none-any.whl
     # - http://www.algoserver.com/unflatten-0.1.post1.pre0-py2.py3-none-any.whl
     - http://www.algoserver.com/acud-0.0.1_96_g133231e-py2-none-any.whl  
-    - matplotlib
+    # - matplotlib
     - plotly
